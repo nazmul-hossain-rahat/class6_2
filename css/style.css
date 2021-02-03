@@ -1,0 +1,29 @@
+h2{
+	color: white;
+	text-align:  center;
+	 background-color: #5E5A80; 
+
+}
+.bg_yellow{
+	background-color: black;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: #387C44;    
+  text-align: center;
+}
+#h2{
+	font-size: 40px
+
+}
+	
+body{
+	background-color:#C3FDB8;
+}
+div{
+    text-align: center;
+}
+.center{
+	text-align: center;
+	font-size: 50px
+}
